@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<p>{{ i18n "welcome" }}</p>
+
+<p>
+  <img src="{{ "images/GrandeNation.png" | relURL }}" alt="{{ i18n "coverAlt" }}">
+</p>
+
+<h2>{{ i18n "contents" }}</h2>
+
+<ol>
+  {{ range (where .Site.RegularPages "Section" "livre").ByWeight }}
+    {{ if eq .Section "livre" }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ol>
+
+{{ end }}
