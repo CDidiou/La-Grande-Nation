@@ -6,6 +6,12 @@ version: 1.0
 description: ""
 weight: 12
 ---
+*Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
+
+
+Le Lion du Fleuve - *Chronique véritable des exploits de Balthazar de Saint-Laurent*
+*« La France ne saurait être petite tant que les Français ont encore quelque chose à conquérir ! »*
+
 
 Il est des hommes qui naissent avec une fortune.
 

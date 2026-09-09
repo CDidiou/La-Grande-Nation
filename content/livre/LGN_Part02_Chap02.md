@@ -6,6 +6,7 @@ version: 1.0
 description: ""
 weight: 22
 ---
+*Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
 Le convoi anglais partit à l'aube.
 

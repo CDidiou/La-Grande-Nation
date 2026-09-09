@@ -6,6 +6,7 @@ version: 1.0
 description: ""
 weight: 42
 ---
+*Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
 Ils arrivèrent au Québec après une traversée interminable.
 
