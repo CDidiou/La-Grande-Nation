@@ -1,0 +1,29 @@
+baseURL = 'http://localhost:1313/'
+
+theme = 'PaperMod'
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  [languages.fr]
+    languageName = 'Français'
+    locale = 'fr-FR'
+    title = 'La grande Nation'
+    weight = 1
+
+  [languages.en]
+    languageName = 'English'
+    locale = 'en-US'
+    title = 'The Great Nation'
+    weight = 2
+
+  [languages.es]
+    languageName = 'Español'
+    locale = 'es-ES'
+    title = 'La Gran Nación'
+    weight = 3
+
+[params.assets]
+customCSS = ["css/extended/custom.css"]

@@ -1,0 +1,28 @@
+.chapter-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.chapter-prev {
+  text-align: left;
+}
+
+.chapter-next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.post-content p {
+    margin-bottom: 1.2em;
+}
+
+.post-subtitle {
+  font-style: italic;
+  font-size: 1.5rem;
+  /* Vous pouvez aussi ajuster la couleur ou la taille si besoin, par exemple : */
+  /* color: #666; */
+  /* margin-top: -10px; */
