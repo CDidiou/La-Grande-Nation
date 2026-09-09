@@ -24,7 +24,7 @@ Je m'amusai, je le confesse, davantage que la charité chrétienne ne l'aurait s
 
 Ce fut vers la fin, pendant le cocktail, que je vis ce que je n'avais pas prévu.
 
-Le Maire s'était isolé avec Pinchon, dans l'angle où l'on range d'ordinaire les fauteuils qu'on ne veut pas voir occupés. Rien, dans leur posture, n'aurait attiré l'œil d'un observateur moins attentif que moi. Mais je regardais depuis assez longtemps les mains des hommes de ce canton, dans ce genre de soirée, pour reconnaître ce que je vis : Pinchon glissa, sans le moindre geste superflu, quelques pièces dans la main du Maire — de ces louis, je n'en doutai pas un instant, qu'André venait tout juste de lui verser en remerciement de la Montmorillon.
+Le Maire s'était isolé avec Pinchon, dans l'angle où l'on range d'ordinaire les fauteuils qu'on ne veut pas voir occupés. Rien, dans leur posture, n'aurait attiré l'œil d'un observateur moins attentif que moi. Mais je regardais depuis assez longtemps les mains des hommes de ce canton, dans ce genre de soirée, pour reconnaître ce que je vis : Pinchon glissa, sans le moindre geste superflu, quelques pièces dans la main du Maire.
 
 Le Maire les prit. Il ne regarda même pas autour de lui pour vérifier qu'on ne le voyait pas.
 
@@ -38,7 +38,7 @@ Or voilà qu'un autre, sans me consulter, sans même savoir qu'il empiétait sur
 
 Je n'aime pas cela.
 
-Je l'écris ici tel quel, sans l'habiller davantage : je n'aime pas cela. Non par vertu — je n'ai pas la moindre prétention à en faire montre à mes propres pages — mais parce qu'un homme qu'on croit tenir seul, et qu'on découvre partagé, cesse d'être un instrument pour redevenir, du jour au lendemain, un homme. C'est-à-dire une chose infiniment moins fiable.
+Je l'écris ici tel quel, sans l'habiller davantage : je n'aime pas cela. Non par vertu mais parce qu'un homme qu'on croit tenir seul, et qu'on découvre partagé, cesse d'être un instrument pour redevenir, du jour au lendemain, un homme. C'est-à-dire une chose infiniment moins fiable.
 
 Je ne dis rien, ce soir-là. Je terminai mon verre, je saluai Mme de Réchignac, dont la santé du mari était bien faible ces temps derniers, et je pris congé avec la politesse qu'on me connaît.
 

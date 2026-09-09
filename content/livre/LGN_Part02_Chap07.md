@@ -74,7 +74,7 @@ Armand sourit.
 
 — Quelqu'un doit bien faire en sorte que tes victoires ne nous ruinent pas.
 
-Mirza Rahman, assis près du feu, éclata de rire.
+Ranga Rangappa, assis près du feu, éclata de rire.
 
 Les années de guerre semblèrent ne jamais devoir finir.
 

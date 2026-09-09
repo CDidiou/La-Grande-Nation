@@ -22,7 +22,7 @@ Balthazar réunit ses capitaines.
 
 Armand était à côté de lui.
 
-Mirza se tenait au fond de la pièce.
+Ranga se tenait au fond de la pièce.
 
 La carte était déployée.
 

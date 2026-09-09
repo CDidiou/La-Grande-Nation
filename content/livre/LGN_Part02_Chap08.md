@@ -32,7 +32,7 @@ Puis le fleuve.
 
 On choisit un terrain.
 
-Mirza observa le sol.
+Ranga observa le sol.
 
 Il secoua la tête.
 
@@ -84,7 +84,7 @@ La guerre était terminée.
 
 Ils avaient désormais d'autres affaires.
 
-Mirza Rahman, lui aussi, annonça un matin qu'il repartait.
+Ranga Rangappa, lui aussi, annonça un matin qu'il repartait.
 
 Balthazar resta silencieux.
 
@@ -100,7 +100,7 @@ Le vieil homme sourit.
 
 Ils se serrèrent la main.
 
-Mirza monta à bord du navire.
+Ranga monta à bord du navire.
 
 Balthazar le regarda partir.
 

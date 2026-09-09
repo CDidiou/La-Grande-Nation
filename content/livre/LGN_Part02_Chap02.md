@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 22
+weight: 43
 ---
 *Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
@@ -94,7 +94,7 @@ Balthazar prit une poignée de graines.
 
 — Comment ça, non ?
 
-Balthazar regarda Mirza.
+Balthazar regarda Ranga.
 
 Le vieil Indien souriait.
 
@@ -102,7 +102,7 @@ Le vieil Indien souriait.
 
 Armand ouvrit la bouche.
 
-Mirza parla avant lui.
+Ranga parla avant lui.
 
 — Vous autres Européens avez toujours la même erreur.
 
@@ -120,7 +120,7 @@ Puis il demanda :
 
 — Et qu'est-ce qu'on peut faire pousser avec ?
 
-Mirza répondit :
+Ranga répondit :
 
 — Voilà enfin une bonne question.
 

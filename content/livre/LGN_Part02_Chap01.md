@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 12
+weight: 42
 ---
 *Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
@@ -121,17 +121,17 @@ Il se mit donc à chercher un homme qui savait.
 
 Il le trouva au bout de quelques jours.
 
-Il se nommait Mirza Rahman.
+Il se nommait Ranga Rangappa.
 
 Un vieillard indien au regard noir, qui connaissait les plantes, les vents, les ports, les routes et surtout les hommes.
 
 Armand lui parla de commerce.
 
-Mirza l'écouta.
+Ranga l'écouta.
 
 Balthazar lui parla de guerre.
 
-Mirza sourit.
+Ranga sourit.
 
 — Et vous ? demanda Balthazar.
 
@@ -145,7 +145,7 @@ Balthazar éclata de rire.
 
 Ce fut le début de leur amitié.
 
-Quelques jours plus tard, Mirza leur parla d'un convoi anglais.
+Quelques jours plus tard, Ranga leur parla d'un convoi anglais.
 
 Trois bâtiments.
 
@@ -159,7 +159,7 @@ Armand demanda :
 
 — Quelle valeur ?
 
-Mirza répondit :
+Ranga répondit :
 
 — Cela dépend.
 
@@ -171,7 +171,7 @@ Balthazar posa les deux mains sur la table.
 
 — Nous allons les prendre.
 
-Mirza regarda Armand.
+Ranga regarda Armand.
 
 Puis Balthazar.
 
@@ -181,6 +181,6 @@ Puis de nouveau Armand.
 
 — Non, répondit Armand. Mais lui est pire.
 
-Mirza sourit.
+Ranga sourit.
 
 — Alors peut-être réussirez-vous.

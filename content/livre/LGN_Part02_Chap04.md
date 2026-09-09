@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 42
+weight: 47
 ---
 *Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
@@ -76,7 +76,7 @@ Armand s'occupait des vivres.
 
 Balthazar s'occupait des hommes.
 
-Mirza observait.
+Ranga observait.
 
 Il disait peu.
 

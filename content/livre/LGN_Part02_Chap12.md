@@ -130,7 +130,7 @@ D'une rive à l'autre.
 
 Et, pendant quelques instants, il sembla que les morts eux-mêmes l'entendaient.
 
-Mirza, quelque part sur l'autre rive de l'océan.
+Ranga, quelque part sur l'autre rive de l'océan.
 
 Armand, sous la terre de France.
 

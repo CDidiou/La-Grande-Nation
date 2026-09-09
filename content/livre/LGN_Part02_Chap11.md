@@ -26,7 +26,7 @@ On parla de Barnardy-Lyle.
 
 On parla de Van Lilaz.
 
-On parla de Mirza Rahman.
+On parla de Ranga Rangappa.
 
 On parla d'Armand.
 
@@ -92,7 +92,7 @@ Balthazar leva son verre.
 
 Tous burent.
 
-— À Mirza.
+— À Ranga.
 
 Tous burent.
 

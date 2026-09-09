@@ -106,7 +106,7 @@ Ils parlaient des anciennes batailles.
 
 — Oui.
 
-— Tu te souviens de Mirza ?
+— Tu te souviens de Ranga ?
 
 Armand souriait.
 

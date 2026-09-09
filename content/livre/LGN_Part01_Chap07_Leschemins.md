@@ -61,8 +61,4 @@ Je fis appeler l'homme qui, depuis des années, s'occupe pour moi des affaires q
 
 Je lui donnai mes instructions. Cette nuit même, il irait reprendre mon coffre. Baldassare Marturino ne logeait plus dans la grange mais directement avec elle dans la petite maison.
 
-Je lui dis d'y aller à plusieurs. Je lui dis aussi, ce qui ne m'était encore jamais arrivé de dire à quiconque, de casser au passage quelque mobilier — rien d'irréparable, une chaise, un vaisselier, de quoi laisser une trace qu'on ne pourrait pas mettre sur le compte d'un simple courant d'air.
-
-Ce n'était plus, cette fois, une affaire de coffre.
-
-C'était une leçon, et je voulais qu'on la comprît comme telle avant même d'en connaître l'auteur.
+Mes instructions étaient simples: récupérer le coffre, et ne laisser aucune trace.

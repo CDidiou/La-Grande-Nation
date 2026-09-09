@@ -10,11 +10,11 @@ weight: 5
 
 ## Avant-propos
 
-Mon frère est mort au mois de mars.
+Mon frère est mort au mois de mars. Lors de la journée des canons.
 
-Je ne dirai rien de plus à ce sujet, sinon que sa mort clôt, avec une netteté que j'ai fini par trouver presque élégante, quatre siècles de Saint-Laurent sur ces terres. Il n'y aura pas d'autre héritier de ce nom. Le domaine ira, à ma mort, aux Bernardy-Lilaz. C'est la loi, et la loi, en l'occurrence, ne fait que confirmer ce qui avait déjà été décidé, ailleurs, il y a longtemps, par des hommes que j'ai bien connus.
+Sa mort clôt, avec une netteté que j'ai fini par trouver presque élégante, quatre siècles de Saint-Laurent sur ces terres. Il n'y aura pas d'autre héritier de ce nom. Le domaine ira, à ma mort, aux Bernardy-Lilaz. C'est la loi, et la loi, en l'occurrence, ne fait que confirmer ce qui avait déjà été décidé, ailleurs, il y a longtemps, par des hommes que j'ai bien connus.
 
-J'ai quatre-vingt-un ans. J'ai eu, pour toute compagnie, le temps.
+J'ai soixante-deux ans. J'ai eu, pour toute compagnie, le temps.
 
 J'ai donc écrit.
 

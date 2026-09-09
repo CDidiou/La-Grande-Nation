@@ -4,19 +4,19 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 32
+weight: 46
 ---
 *Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 
 Ils rentrèrent en France avec les caisses.
 
-Et avec Mirza Rahman.
+Et avec Ranga Rangappa.
 
 Armand voulait vendre les épices.
 
 Balthazar voulait les planter.
 
-Mirza voulait d'abord dormir.
+Ranga voulait d'abord dormir.
 
 On s'installa en Gascogne.
 
@@ -26,7 +26,7 @@ Les voisins rirent.
 
 Puis ils cessèrent de rire.
 
-Mirza choisit les sols.
+Ranga choisit les sols.
 
 Il observa les vents.
 
@@ -104,7 +104,7 @@ Balthazar sourit.
 
 — Elles attendront.
 
-Mirza Rahman, qui avait entendu la conversation depuis la fenêtre, entra.
+Ranga Rangappa, qui avait entendu la conversation depuis la fenêtre, entra.
 
 — Vous partez encore ?
 
