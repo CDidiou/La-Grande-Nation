@@ -33,6 +33,9 @@ Il s'assit — sans qu'aucune servilité n'accompagnât le geste. Il me regardai
 
 Je m'en offusquai. Je m'en offusquai avec un plaisir que je ne m'explique pas tout à fait, et que je n'ai jamais éprouvé avec aucun autre homme de ce canton, révérencieux jusqu'à l'écœurement. Les coups ne lui avaient rien pris de sa vigueur. Elle demeurait, égale, du premier mot au dernier, et c'est peut-être cela, plus que le coffre ou le mensonge, que je suis venue chercher, ce soir-là, sans me l'avouer.
 
+- Vous êtes Baldassare Marturino, fugitif carbonaro, sans papier, caché chez votre tante Mathurin. Je sais tout de vous.
+- Non, madame. Cet homme n'existe plus. Je suis monsieur Delali-Zalila. Marchand des Indes. Originaire de Pondichéry.
+- Pondichéry, tiens donc!
 *
 
 Je le fis parler. Il ne se fit pas prier — un homme entre les mains de qui vous a fait battre n'a plus grand-chose à protéger, hormis sa peau.
