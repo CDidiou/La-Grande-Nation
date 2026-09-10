@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) Madame de Réchignac"
+title: "(Ici) Madame de Réchignac"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -49,7 +49,7 @@ J'ai déjà écrit, dans ces pages, ce que je vis à la soirée du comité : Pin
 
 Cela, je le savais avant qu'elle n'eût quitté mon salon.
 
-Ce que je ne savais pas, et qui m'occupa bien plus longtemps que je ne l'aurais voulu, c'est autre chose. Je connaissais Pinchon calculateur. Je connaissais André cupide. Je croyais les avoir mesurés l'un et l'autre, comme on mesure un adversaire qu'on tient déjà, en partie, dans sa main.
+Ce que je ne savais pas, et qui m'occupa bien plus longtemps que je ne l'aurais voulu, c'est autre chose. Je connaissais Pinchon calculateur. Je connaissais Castelnau cupide. Je croyais les avoir mesurés l'un et l'autre, comme on mesure un adversaire qu'on tient déjà, en partie, dans sa main.
 
 Je ne les savais pas capables de menacer une femme seule dans sa propre maison.
 

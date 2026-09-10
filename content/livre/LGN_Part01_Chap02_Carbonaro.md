@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) La veuve Mathurin"
+title: "(Ici) La veuve Mathurin"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -16,7 +16,7 @@ C'est ainsi que je savais, avant que rien ne se produise dans la cour de la veuv
 
 *
 
-André avait rédigé l'acte lui-même, de sa belle écriture de notaire, avec cette élégance particulière qu'ont les hommes de loi pour habiller une spoliation en formalité. La dette de semences, grossie d'intérêts qu'aucun tribunal n'aurait validés, valait à présent le champ tout entier. La veuve ne savait pas lire. André le savait.
+Castelnau avait rédigé l'acte lui-même, de sa belle écriture de notaire, avec cette élégance particulière qu'ont les hommes de loi pour habiller une spoliation en formalité. La dette de semences, grossie d'intérêts qu'aucun tribunal n'aurait validés, valait à présent le champ tout entier. La veuve ne savait pas lire. Castelnau le savait.
 
 Il vint avec Pinchon. Elle hésitait, le tablier serré dans les mains, quand l'homme sortit de la grange.
 

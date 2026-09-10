@@ -1,5 +1,5 @@
 ---
-title: "(L'Épice) Le Saint-Laurent"
+title: "(Ailleurs) Le Saint-Laurent"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

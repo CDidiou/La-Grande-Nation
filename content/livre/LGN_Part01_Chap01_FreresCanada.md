@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) Les frères du Canada"
+title: "(Ici) Les frères du Canada"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -20,11 +20,11 @@ On parlait aussi, dans ce salon, d'autre chose — d'une voix plus basse, entre 
 
 — Les travaux commenceront l'an prochain, disait André de Castelnau-Bernardy à qui voulait l'entendre. On dit que les terres, le long du tracé, vont doubler de valeur avant même que la première pierre ne soit posée.
 
-— Doubler ? fit Pinchon, avec un sourire qui n'engageait à rien.
+— Doubler ? fit Louis Pinchon, avec un sourire qui n'engageait à rien.
 
 — Certains disent tripler.
 
-Je ne dis rien. J'écoutais, comme j'écoutais toujours, en tenant ma tasse un peu plus fermement qu'il n'était nécessaire. Je savais, moi aussi, ce que valait un canal. On ne grandit pas dans une famille qui possède des terres depuis quatre siècles sans apprendre, très tôt, à lire une carte comme d'autres lisent un missel. Je le savais avant André. Je le savais peut-être avant Pinchon lui-même.
+Je ne dis rien. J'écoutais, comme j'écoutais toujours, en tenant ma tasse un peu plus fermement qu'il n'était nécessaire. Je savais, moi aussi, ce que valait un canal. On ne grandit pas dans une famille qui possède des terres depuis quatre siècles sans apprendre, très tôt, à lire une carte comme d'autres lisent un missel. Je le savais avant André de Castelnau. Je le savais peut-être avant Louis Pinchon lui-même.
 
 Je ne le dis à personne. Cela ne me paraissait pas encore, ce soir-là, une chose qu'il fallait dire.
 
@@ -72,7 +72,7 @@ Je restai assise, le dos très droit, jusqu'à la fin de la séance. On ne me vi
 
 *
 
-En partant, je vis André de Castelnau-Bernardy s'attarder un instant près du coffre, qu'on n'avait pas encore fait remporter. Il souleva le couvercle, du bout des doigts, comme on soulève une chose qui ne vous appartient pas encore tout à fait.
+En partant, je vis Castelnau s'attarder un instant près du coffre, qu'on n'avait pas encore fait remporter. Il souleva le couvercle, du bout des doigts, comme on soulève une chose qui ne vous appartient pas encore tout à fait.
 
 Pinchon vint le rejoindre. Ils échangèrent quelques mots que je n'entendis pas.
 

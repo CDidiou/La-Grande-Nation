@@ -3,7 +3,7 @@ title: "(Le Cep) Deux tombes"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
-description: "Miroir des « Ceps » (L'Épice, ch.8) et prépare « La victoire »/mort d'André (ch.7 côté Épice, ch.9 côté Cep dans la table initiale — ajusté ici : la mort d'André se place avant le mariage). Deux pistes de soupçon posées simultanément et jamais tranchées : le couteau (Pinchon) et le poison (Mme de Castelnau). Paie les références déjà semées en ch.3 et ch.9 (« le couteau dans la haie », « le poison chez l'herboriste »). Registre : rythme plus heurté, phrases courtes, la maîtrise d'Euphrasie mise à l'épreuve par la vitesse des événements plutôt que par leur nature."
+description: ""
 weight: 91
 ---
 *Extrait du texte privé d'Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »*
@@ -48,7 +48,7 @@ Elle n'ajouta rien sur Ramon. Je crois qu'elle n'avait, en réalité, rien à en
 
 -
 
-— Vous saviez, reprit-elle, qu'André et ce Pinchon ne s'entendaient plus, ces derniers temps ?
+— Vous saviez, reprit-elle, qu'André et ce Louis Pinchon ne s'entendaient plus, ces derniers temps ?
 
 Je répondis que je l'ignorais — ce qui, entre nous, était à peu près vrai : je savais qu'ils se disputaient, je ne savais pas jusqu'où.
 

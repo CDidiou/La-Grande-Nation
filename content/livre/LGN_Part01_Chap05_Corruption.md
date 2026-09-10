@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) Le Maire"
+title: "(Ici) Le Maire"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -16,7 +16,7 @@ Je m'y fis conduire par Ramon, qui grommela tout le trajet contre la poussière 
 
 Ces messieurs, eux, s'étaient groupés plus bas, près des piquets de l'ingénieur, dans cette agitation particulière aux hommes qui veulent tous paraître les seuls à comprendre le plan qu'on leur montre.
 
-André parlait fort, un doigt tendu vers l'amont, comme s'il avait lui-même creusé le canal de ses mains. Pinchon, à ses côtés, opinait à chaque phrase avec la componction d'un clerc qui approuve un testament qu'il a lui-même rédigé. Le Maire, entre les deux, avait cet air affairé et un peu perdu des hommes qu'on a placés là précisément parce qu'ils décideront ce qu'on voudra qu'ils décident.
+Castelnau parlait fort, un doigt tendu vers l'amont, comme s'il avait lui-même creusé le canal de ses mains. Pinchon, à ses côtés, opinait à chaque phrase avec la componction d'un clerc qui approuve un testament qu'il a lui-même rédigé. Le Maire, entre les deux, avait cet air affairé et un peu perdu des hommes qu'on a placés là précisément parce qu'ils décideront ce qu'on voudra qu'ils décident.
 
 Je regardai un moment cette petite comédie, debout près de la calèche, sans descendre les rejoindre — on me voit toujours mieux de loin, et j'aime autant qu'on me voie ainsi.
 
@@ -26,7 +26,7 @@ En s'éloignant, j'entendis Ramon grommeler dans son patois si particulier, comm
 
 Je suivis Ramon du regard, longuement, le voyant rejoindre le talus des spectateurs. Mais je notai sa phrase, ce soir-là, presque mot pour mot, parce qu'elle disait en une ligne ce que j'aurais mis, moi, un paragraphe entier à formuler avec moins de justesse.
 
-La discussion, en bas, s'échauffa. L'ingénieur, un homme jeune et visiblement peu habitué à ce genre d'assemblée, tentait d'expliquer que l'emplacement le plus raisonnable, techniquement, favorisait les terres basses — celles, précisément, qu'André venait tout juste de récupérer des Montmorillon. Un propriétaire des hauteurs, dont je tairai le nom parce qu'il n'a plus d'importance pour la suite, protesta avec véhémence : son grain, disait-il, devrait désormais faire deux lieues de plus pour rejoindre le quai. On parla de compensation, d'un second embarcadère plus tard, peut-être, si les fonds le permettaient — ce qui, dans la bouche de Pinchon, signifiait : jamais.
+La discussion, en bas, s'échauffa. L'ingénieur, un homme jeune et visiblement peu habitué à ce genre d'assemblée, tentait d'expliquer que l'emplacement le plus raisonnable, techniquement, favorisait les terres basses — celles, précisément, que Castelnau venait tout juste de récupérer des Montmorillon. Un propriétaire des hauteurs, dont je tairai le nom parce qu'il n'a plus d'importance pour la suite, protesta avec véhémence : son grain, disait-il, devrait désormais faire deux lieues de plus pour rejoindre le quai. On parla de compensation, d'un second embarcadère plus tard, peut-être, si les fonds le permettaient — ce qui, dans la bouche de Pinchon, signifiait : jamais.
 
 Le Maire devait trancher, ou du moins faire semblant de le faire, puisque c'est à cela que sert un maire dans ce genre d'affaire.
 

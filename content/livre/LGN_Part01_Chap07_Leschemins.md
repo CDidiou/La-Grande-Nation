@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) Les chemins"
+title: "(Ici) Les chemins"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -13,7 +13,7 @@ weight: 71
 
 Le Maire se présenta chez moi dès le lendemain matin, sans se faire annoncer, ce qu'il n'avait jamais osé en douze ans.
 
-Il portait sous le bras un dossier qu'il n'avait manifestement pas rédigé lui-même — l'écriture, je la reconnus au premier coup d'œil, était celle d'André, cette même belle main de notaire qui avait déjà servi, un an plus tôt, à dépouiller la veuve Mathurin de son champ.
+Il portait sous le bras un dossier qu'il n'avait manifestement pas rédigé lui-même — l'écriture, je la reconnus au premier coup d'œil, était celle d'André de Castelnau-Bernardy, cette même belle main de notaire qui avait déjà servi, un an plus tôt, à dépouiller la veuve Mathurin de son champ.
 
 Il s'agissait, m'expliqua-t-il, d'un litige de bornage. Le chemin qui longe mes terres du côté du champ de la veuve Mathurin n'aurait, paraît-il, jamais été correctement borné — une erreur de l'ancien cadastre, disait-il, qu'il convenait de rectifier. La rectification, comme par hasard, déplaçait la limite de plusieurs toises en ma défaveur, et grevait, du même geste, l'usage que j'avais moi-même consenti à la veuve sur son propre champ.
 
@@ -61,7 +61,7 @@ Je fis appeler l'homme qui, depuis des années, s'occupe pour moi des affaires q
 
 La chose, hélas, n'avait plus rien de la simplicité qu'elle aurait eue un an plus tôt.
 
-Baldassare Marturino ne se cachait plus dans aucune grange. Monsieur Delali-Zalila — car c'est ainsi qu'on le nommait désormais, jusque dans les actes, jusque dans les invitations, jusque dans la bouche même du curé — logeait à l'auberge du Cygne, où Pinchon et André lui avaient fait aménager, aux frais de je ne sais quelle avance sur je ne sais quelle veuve, toute une aile qu'on appelait déjà, dans tout le canton, « le salon des Indes ». On y avait tendu des étoffes rouges et safran, peint sur les murs des éléphants que nul, à cinq lieues à la ronde, n'avait jamais vus que sur une gravure, et fait brûler, aux heures où l'on recevait, des bâtonnets dont l'odeur, disait-on, venait tout droit de Pondichéry — et venait, en réalité, tout droit de l'épicier de Langon, qui s'était découvert, en l'espace d'un hiver, un remarquable talent pour l'Orient.
+Baldassare Marturino ne se cachait plus dans aucune grange. Monsieur Delali-Zalila — car c'est ainsi qu'on le nommait désormais, jusque dans les actes, jusque dans les invitations, jusque dans la bouche même du curé — logeait à l'auberge du Cygne, où Pinchon et Castelnau lui avaient fait aménager, aux frais de je ne sais quelle avance sur je ne sais quelle veuve, toute une aile qu'on appelait déjà, dans tout le canton, « le salon des Indes ». On y avait tendu des étoffes rouges et safran, peint sur les murs des éléphants que nul, à cinq lieues à la ronde, n'avait jamais vus que sur une gravure, et fait brûler, aux heures où l'on recevait, des bâtonnets dont l'odeur, disait-on, venait tout droit de Pondichéry — et venait, en réalité, tout droit de l'épicier de Langon, qui s'était découvert, en l'espace d'un hiver, un remarquable talent pour l'Orient.
 
 Le coffre trônait au centre de ce décor, sur un socle qu'on avait fait tourner exprès vers la porte, de sorte qu'aucun visiteur, en entrant, ne pût faire autrement que de le voir avant de voir son propriétaire.
 

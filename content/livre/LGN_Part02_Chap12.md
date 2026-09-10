@@ -1,5 +1,5 @@
 ---
-title: "(L'Épice) Vive la France !"
+title: "(Ailleurs) Vive la France !"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(L'Épice) La bataille du fleuve"
+title: "(Ailleurs) La bataille du fleuve"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

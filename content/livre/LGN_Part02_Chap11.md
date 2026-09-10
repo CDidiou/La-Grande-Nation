@@ -1,5 +1,5 @@
 ---
-title: "(L'Épice) Le Lion revient"
+title: "(Ailleurs) Le Lion revient"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(Le Cep) Delali-Zalila"
+title: "(Ici) Delali-Zalila"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
@@ -52,7 +52,7 @@ Il m'expliqua le plan dans son entier. Le coffre allait devenir, sous ses mains 
 
 Je connaissais le blason avant de connaître Marie-Iphigénie. Les Montmorillon nous fournissent, depuis deux générations, ce que notre cave compte de plus médiocre — un vin qu'on sert aux invités qu'on ne tient pas à revoir. Ce sont, en somme, d'assez pâles figures à côté des Saint-Laurent : une noblesse authentique, mais sans lustre, de celles qu'on convie par habitude plutôt que par plaisir. Nous nous disons amies. Je ne saurais dire ce que ce mot recouvre exactement entre elle et moi, sinon une politesse ancienne que ni l'une ni l'autre n'a jamais songé à rompre.
 
-Je ne fus pas fâchée d'apprendre que la toute récente veuve allait devoir se débattre avec Pinchon, André, et l'homme assis devant moi. J'éprouvai même, je l'avoue, une curiosité assez vive à l'idée d'assister, de loin, à ce combat — de voir comment une femme moins vive que moi se défendrait contre ce que je venais, moi, de déjouer en une seule nuit.
+Je ne fus pas fâchée d'apprendre que la toute récente veuve allait devoir se débattre avec Pinchon, Castelnau, et l'homme assis devant moi. J'éprouvai même, je l'avoue, une curiosité assez vive à l'idée d'assister, de loin, à ce combat — de voir comment une femme moins vive que moi se défendrait contre ce que je venais, moi, de déjouer en une seule nuit.
 
 Je n'irais pas l'aider. Cette pensée ne se présenta même pas à moi comme un choix : elle ne se posa simplement jamais.
 

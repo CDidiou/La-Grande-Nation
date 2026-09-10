@@ -1,5 +1,5 @@
 ---
-title: "(L'Épice) Les épices"
+title: "(Ailleurs) Les épices"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

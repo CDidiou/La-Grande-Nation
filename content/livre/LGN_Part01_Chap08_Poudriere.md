@@ -1,9 +1,9 @@
 ---
-title: "(Le Cep) La poudrière"
+title: "(Ici) La poudrière"
 subtitle: ""
 date: 2026-09-09
 version: 1.0
-description: "Miroir des « Ceps » (L'Épice, ch.8) et prépare « La victoire »/mort d'André (ch.7 côté Épice, ch.9 côté Cep dans la table initiale — ajusté ici : la mort d'André se place avant le mariage). Deux pistes de soupçon posées simultanément et jamais tranchées : le couteau (Pinchon) et le poison (Mme de Castelnau). Paie les références déjà semées en ch.3 et ch.9 (« le couteau dans la haie », « le poison chez l'herboriste »). Registre : rythme plus heurté, phrases courtes, la maîtrise d'Euphrasie mise à l'épreuve par la vitesse des événements plutôt que par leur nature."
+description: ""
 weight: 81
 ---
 *Extrait du texte privé d'Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »*
@@ -30,7 +30,7 @@ On ne sauve personne, dans ce canton, sans qu'elle ne finisse, tôt ou tard, par
 
 Catherine vint me trouver le surlendemain, dans un état que je ne lui avais jamais vu.
 
-André, m'apprit-elle entre deux sanglots qu'elle ne cherchait même plus à retenir, ne voulait plus la recevoir. Il le lui avait fait dire par un tiers, ce qui, chez un homme de sa sorte, est une façon de doubler l'insulte : non seulement il la congédiait de son lit, mais il ne lui accordait même pas la peine de le lui dire lui-même.
+Monsieur de Castelnau, m'apprit-elle entre deux sanglots qu'elle ne cherchait même plus à retenir, ne voulait plus la recevoir. Il le lui avait fait dire par un tiers, ce qui, chez un homme de sa sorte, est une façon de doubler l'insulte : non seulement il la congédiait de son lit, mais il ne lui accordait même pas la peine de le lui dire lui-même.
 
 Je ne lui demandai pas pourquoi. Je crois qu'elle-même l'ignorait, et je crois, surtout, que la raison n'avait aucune importance : un homme qui sent le sol trembler sous lui commence toujours par se défaire de ce qui pourrait, un jour, parler.
 
@@ -56,6 +56,6 @@ On disait que le Maire, Pinchon et André s'y étaient disputés, la veille au s
 
 Le reste du canton, pendant ce temps, se souciait de choses plus anciennes et plus sûres que nos petites affaires : la vendange de cette année-là fut, de mémoire de vigneron, l'une des plus mauvaises qu'on eût vues depuis longtemps — grêle en juin, pourriture en septembre, un vin qu'on savait déjà, avant même de le presser, ne valoir guère mieux que celui des Montmorillon. Les travaux du canal, eux, prenaient du retard sur du retard, l'ingénieur invoquant tantôt les pluies, tantôt les fonds, tantôt les deux à la fois — retard dont je n'étais pas mécontente, je l'avoue, puisqu'il repoussait d'autant l'heure où l'embarcadère déciderait, une fois pour toutes, qui de nous s'enrichirait vraiment.
 
-André, lui, était toujours vivant à cette date. Je le note ici précisément, parce que je sais qu'un jour viendra où cela ne sera plus le cas, et je veux qu'on sache, en relisant ces pages, que ce jour-là n'était pas encore arrivé.
+André de Castelnau-Bernardy, lui, était toujours vivant à cette date. Je le note ici précisément, parce que je sais qu'un jour viendra où cela ne sera plus le cas, et je veux qu'on sache, en relisant ces pages, que ce jour-là n'était pas encore arrivé.
 
 Tout, autour de moi, avait pris cet air des maisons avant l'orage, quand les chiens se couchent sans qu'on sache pourquoi, et qu'on ferme les volets sans savoir encore de quel côté le vent va tourner.
