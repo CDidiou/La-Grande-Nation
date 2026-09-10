@@ -57,8 +57,20 @@ Je refermai la porte moi-même, et je restai un moment debout, contre le bois, a
 
 Je pris ma décision avant même que cette colère ne fût tout à fait retombée.
 
-Je fis appeler l'homme qui, depuis des années, s'occupe pour moi des affaires que je ne confie ni à mon notaire ni à mon jardinier. Je ne le nommerai pas davantage ici que je n'ai nommé les autres : ces pages ont leurs limites, et certaines confidences ne regardent que moi.
+Je fis appeler l'homme qui, depuis des années, s'occupe pour moi des affaires que je ne confie ni à mon notaire ni à mon jardinier. Je lui donnai mes instructions. Il fallait reprendre le coffre.
 
-Je lui donnai mes instructions. Cette nuit même, il irait reprendre mon coffre. Baldassare Marturino ne logeait plus dans la grange mais directement avec elle dans la petite maison.
+La chose, hélas, n'avait plus rien de la simplicité qu'elle aurait eue un an plus tôt.
 
-Mes instructions étaient simples: récupérer le coffre, et ne laisser aucune trace.
+Baldassare Marturino ne se cachait plus dans aucune grange. Monsieur Delali-Zalila — car c'est ainsi qu'on le nommait désormais, jusque dans les actes, jusque dans les invitations, jusque dans la bouche même du curé — logeait à l'auberge du Cygne, où Pinchon et André lui avaient fait aménager, aux frais de je ne sais quelle avance sur je ne sais quelle veuve, toute une aile qu'on appelait déjà, dans tout le canton, « le salon des Indes ». On y avait tendu des étoffes rouges et safran, peint sur les murs des éléphants que nul, à cinq lieues à la ronde, n'avait jamais vus que sur une gravure, et fait brûler, aux heures où l'on recevait, des bâtonnets dont l'odeur, disait-on, venait tout droit de Pondichéry — et venait, en réalité, tout droit de l'épicier de Langon, qui s'était découvert, en l'espace d'un hiver, un remarquable talent pour l'Orient.
+
+Le coffre trônait au centre de ce décor, sur un socle qu'on avait fait tourner exprès vers la porte, de sorte qu'aucun visiteur, en entrant, ne pût faire autrement que de le voir avant de voir son propriétaire.
+
+On venait de trois cantons pour l'admirer. On venait plus encore pour être vu à l'admirer. M. Delali-Zalila recevait, deux fois la semaine, dans une redingote taillée à Bordeaux et un turban qu'aucun homme des Indes, j'en suis certaine, n'aurait accepté de porter, et le canton tout entier, qui l'avait ignoré caché derrière une haie un an plus tôt, se pressait maintenant pour lui baiser la main.
+
+Voilà ce qu'un peu d'argent, bien placé et bien mis en scène, peut faire d'un homme qu'on capturait naguère avec trois gendarmes.
+
+Mes instructions n'en furent que plus précises.
+
+Il ne s'agissait plus d'entrer dans une grange endormie. Il faudrait entrer dans une aile d'auberge gardée, que Pinchon faisait surveiller de nuit depuis qu'on y montrait, chaque soir, à qui voulait payer, un coffre devenu la pièce la plus célèbre du canton.
+
+Récupérer le coffre. Ne laisser aucune trace. Rien de plus — et rien de moins.

@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 101
+weight: 111
 ---
 *Extrait du texte privé d'Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »*
 

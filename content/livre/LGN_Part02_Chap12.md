@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: ""
-weight: 122
+weight: 112
 ---
 *Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »*
 

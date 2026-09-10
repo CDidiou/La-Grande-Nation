@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: "Transition vers « Les chemins ». Première alerte extérieure sur la dangerosité du trio — pas seulement la fraude, mais la menace. Euphrasie tente l'esprit, se fait arrêter net. Sa toute-puissance vacille : elle sait déjà que le Maire ne fera rien, et pour la première fois cela l'inquiète plutôt que de l'amuser."
-weight: 61
+weight: 161
 ---
 *Extrait du texte privé d'Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »*
 

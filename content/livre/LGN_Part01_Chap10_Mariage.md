@@ -4,7 +4,7 @@ subtitle: ""
 date: 2026-09-09
 version: 1.0
 description: "Le Cep — registre : d'abord triomphant, puis anxieux. Ici : bascule. Trois forces traversent Euphrasie — peur de Pinchon, attirance pour Balthazar, ivresse de son pouvoir sur le Maire — mais elle les tient. Registre glacé, aristocratique, peu d'exposition émotionnelle directe."
-weight: 91
+weight: 101
 ---
 
 *Extrait du texte privé d'Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »*
