@@ -15,7 +15,7 @@ Mon monde se réduisait. Je m’en aperçus d’abord à des choses que je ne ju
 
 Je ne m’en plaignis pas. Il y avait toujours eu trop de monde dans le monde.
 
-Le jeune André de Bernardy-Lilaz, lui, semblait avoir découvert une manière de faire passer les années à son service.
+Le jeune André-Joseph de Bernardy-Lilaz, lui, semblait avoir découvert une manière de faire passer les années à son service.
 Il continua d'une traite à pousser, à construire, à vendre, à épouser, à développer et à administrer.
 
 On l’avait vu partir pour Bordeaux avec des livres sous le bras et des ambitions que certains jugeaient excessives pour un garçon de son âge.
@@ -35,7 +35,7 @@ Les hommes qui, quelques années auparavant, lui auraient expliqué comment teni
 Son père, si j'ose dire, monsieur Delali-Zalila, dont il n’avait évidemment hérité d’aucun des traits, était si ivre de bonheur qu’une attaque cardiaque le terrassa lors d'un banquet de vendanges.
 Je ne sais pas si l’on peut mourir d'excès de pêchés.
 
-Mais André en profita pour accélérer.
+Mais André-Joseph en profita pour accélérer.
 
 Désormais chef de famille, il ne donnait pas d’ordres.
 Il indiquait.
@@ -48,7 +48,7 @@ Il n’avait pas besoin de les interrompre.
 On se taisait pour lui.
 
 La boutique vint ensuite.
-André voyait grand. Il avait compris avant les autres ce que le canal changeait.
+André-Joseph voyait grand. Il avait compris avant les autres ce que le canal changeait.
 Les marchandises n’auraient plus seulement besoin de passer.
 Elles partiraient.
 Il fit aménager les charrettes.
@@ -75,7 +75,7 @@ On avait besoin d’un homme qui connaissait Bordeaux.
 On avait besoin d’un homme qui connaissait le vin.
 On avait besoin d’un homme qui connaissait le canal.
 On avait surtout besoin d’un homme que tout le monde connaissait déjà.
-André de Bernardy-Lilaz fut élu maire avant trente ans.
+André-Joseph de Bernardy-Lilaz fut élu maire avant trente ans.
 
 Je me regardai dans un miroir.
 Une mèche blanche apparut sous ma main lorsque je relevai mes cheveux.
@@ -86,14 +86,14 @@ Je n’avais plus l’âge de discuter avec les miroirs.
 Je recevais encore des lettres, certes, de plus en plus éparses pour ce petit roman patriotique que j’avais publié des années plus tôt. Il avait connu son heure de succès. On me le rappelait à présent avec attendrissement, comme une vieille chanson que l’on se plaît à reconnaître lorsqu’elle revient à la mode. Ces nouveaux admirateurs semblaient être encouragés par l’éclat d’un Empire renaissant. Ils trouvaient dans mes vieilles pages des enthousiasmes dont je n’étais plus tout à fait certaine d’avoir été l’auteur.
 On ne sait jamais très bien ce que les autres trouvent dans ce qu’on leur offre.
 
-André, lui, semblait avoir l’âge de toutes les promesses.
+André-Joseph, lui, semblait avoir l’âge de toutes les promesses.
 Il avait aussi trouvé une femme.
 Elle venait de Bordeaux.
 Une bourgeoise cependant, mais bien éduquée, avec cette manière de se tenir qui indiquait qu’elle avait appris très tôt à ne jamais s’excuser d’être à sa place.
 Le mariage fut beau. Somptueux, même.
-On y trouva des gens de Bordeaux, des gens du canton, des négociants, des propriétaires, des élus et quelques hommes qui avaient compris qu’il était prudent de connaître André avant qu’il ne devienne plus important encore.
+On y trouva des gens de Bordeaux, des gens du canton, des négociants, des propriétaires, des élus et quelques hommes qui avaient compris qu’il était prudent de connaître André-Joseph avant qu’il ne devienne plus important encore.
 
 Dix autres années passèrent.
-André de Bernardy-Lilaz vint me rendre visite.
+André-Joseph de Bernardy-Lilaz vint me rendre visite.
 Il avait quelque chose à annoncer.
 Je redoutais cette visite depuis si longtemps que je ne fus pas surprise de le voir enfin arriver.

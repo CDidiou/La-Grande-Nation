@@ -32,7 +32,7 @@ Il faut que je rénove une maison d’enfance.
 
 Euphrasie de Saint-Laurent voit une escroquerie foncière se monter autour du futur canal.  
 Trois hommes (André de Castelnau-Bernardy, le juge Pinchon, Baldassare Marturino alias Delali-Zalila) dépossèdent des veuves.  
-Euphrasie écrit deux textes : un feuilleton patriotique exalté (*L’Épice*) et un journal privé impitoyable (*Le Cep*).  
+Euphrasie écrit deux textes : un feuilleton patriotique exalté (*Le Lion du Fleuve*) et un journal privé impitoyable (*Je vois. Personne ne me voit.*).  
 Trente ans plus tard, l’enfant devenu le premier **de Bernardy-Lilaz** découvre le texte vrai, le lit, pleure, et le brûle.  
 **Seul le mensonge officiel survit.**
 
@@ -44,7 +44,7 @@ Le cycle est une réflexion sur ce qui demeure quand les hommes disparaissent.
 - 1761 — *Le Sillage* (Siège de Pondichéry) *[à paraître]*
 - 1837 — *La Grande Nation* (Gascogne)
 - 1919 — *Le Bureau de Poste* (Gascogne)
-- 2000 - *La Charpente* (Gascogne)
+- 2000 — *La Charpente* (Gascogne)
 - 2100 — *La Verrière* (Gascogne) *[à paraître]*
 
 Les faits disparaissent.

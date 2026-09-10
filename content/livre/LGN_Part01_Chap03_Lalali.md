@@ -33,9 +33,9 @@ Il s'assit — sans qu'aucune servilité n'accompagnât le geste. Il me regardai
 
 Je m'en offusquai. Je m'en offusquai avec un plaisir que je ne m'explique pas tout à fait, et que je n'ai jamais éprouvé avec aucun autre homme de ce canton, révérencieux jusqu'à l'écœurement. Les coups ne lui avaient rien pris de sa vigueur. Elle demeurait, égale, du premier mot au dernier, et c'est peut-être cela, plus que le coffre ou le mensonge, que je suis venue chercher, ce soir-là, sans me l'avouer.
 
-- Vous êtes Baldassare Marturino, fugitif carbonaro, sans papier, caché chez votre tante Mathurin. Je sais tout de vous.
-- Non, madame. Cet homme n'existe plus. Je suis monsieur Delali-Zalila. Marchand des Indes. Originaire de Pondichéry.
-- Pondichéry, tiens donc!
+— Vous êtes Baldassare Marturino, fugitif carbonaro, sans papier, caché chez votre tante Mathurin. Je sais tout de vous.
+— Non, madame. Cet homme n'existe plus. Je suis monsieur Delali-Zalila. Marchand des Indes. Originaire de Pondichéry.
+— Pondichéry, tiens donc!
 *
 
 Je le fis parler. Il ne se fit pas prier — un homme entre les mains de qui vous a fait battre n'a plus grand-chose à protéger, hormis sa peau.
@@ -43,11 +43,8 @@ Je le fis parler. Il ne se fit pas prier — un homme entre les mains de qui vou
 Il m'expliqua le plan dans son entier. Le coffre allait devenir, sous ses mains et celles de Pinchon, la preuve d'une fortune rapportée des Indes. Lui-même, en habit de marchand, porterait le reste.
 
 — Et après le coffre ?
-
 — Après le coffre, une veuve.
-
 — Laquelle ?
-
 — De Montmorillon.
 
 Je connaissais le blason avant de connaître Marie-Iphigénie. Les Montmorillon nous fournissent, depuis deux générations, ce que notre cave compte de plus médiocre — un vin qu'on sert aux invités qu'on ne tient pas à revoir. Ce sont, en somme, d'assez pâles figures à côté des Saint-Laurent : une noblesse authentique, mais sans lustre, de celles qu'on convie par habitude plutôt que par plaisir. Nous nous disons amies. Je ne saurais dire ce que ce mot recouvre exactement entre elle et moi, sinon une politesse ancienne que ni l'une ni l'autre n'a jamais songé à rompre.
@@ -59,9 +56,7 @@ Je n'irais pas l'aider. Cette pensée ne se présenta même pas à moi comme un 
 *
 
 — Vous prétendez connaître les Indes.
-
 — Je les ai vues.
-
 — Alors ouvrez-le. Montrez-moi ce qu'un homme qui les a vues sait montrer, et que Pinchon, lui, ignore.
 
 C'était une épreuve, et il la comprit comme telle. Il rouvrit le coffre, fit jouer un fond à double paroi que je n'avais, moi, jamais soupçonné en cent ans d'en croiser la housse sans la soulever ; il désigna les boîtes de bois de rose emboîtées les unes dans les autres, m'expliqua à quoi servait chaque compartiment, quel épice on rangeait où, et pourquoi tel coin sentait encore le poivre quand tel autre ne sentait plus rien.
@@ -72,7 +67,7 @@ Il s'arrêta. Je le vis s'arrêter.
 
 Je ne m'attendais à rien de tel, et j'ai passé, depuis, assez d'années à me féliciter de ne rien laisser voir de mon étonnement pour savoir que, ce soir-là, je n'y suis pas tout à fait parvenue.
 
-Il s'était arrêter dans son mouvement. Surpris.
+Il s'était arrêté dans son mouvement. Surpris.
 Je pris mes lettres.
 
 *
