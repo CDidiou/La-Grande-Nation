@@ -14,10 +14,9 @@ Mon frère est mort au mois de mars. Lors de la journée des canons.
 
 Sa mort clôt, avec une netteté que j'ai fini par trouver presque élégante, quatre siècles de Saint-Laurent sur ces terres. Il n'y aura pas d'autre héritier de ce nom. Le domaine ira, à ma mort, aux Bernardy-Lilaz. C'est la loi, et la loi, en l'occurrence, ne fait que confirmer ce qui avait déjà été décidé, ailleurs, il y a longtemps, par des hommes que j'ai bien connus.
 
-J'ai soixante-deux ans. J'ai eu, pour toute compagnie, le temps.
+Les années ont blanchi mon front et fait du temps mon seul et indéfectible compagnon.
 
-J'ai donc écrit.
-
+J'ai écrit.
 Deux fois.
 
 Le premier de ces textes, on le connaît déjà, ou l'on croit le connaître : c'est un feuilleton, publié il y a bien des années dans une feuille locale, sous un nom qui n'était pas le mien. On y trouve des épices, un fleuve, une guerre, une vigne, et une famille dont la grandeur ne connaît, à chaque chapitre, aucun démenti. On me dit qu'il est encore lu, ici et là, avec une émotion sincère. Je n'ai aucune raison d'en douter, et moins encore d'intention de la contredire.

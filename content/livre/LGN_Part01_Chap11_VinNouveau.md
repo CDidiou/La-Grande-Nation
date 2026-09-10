@@ -75,7 +75,7 @@ On avait besoin d’un homme qui connaissait Bordeaux.
 On avait besoin d’un homme qui connaissait le vin.
 On avait besoin d’un homme qui connaissait le canal.
 On avait surtout besoin d’un homme que tout le monde connaissait déjà.
-André-Joseph de Bernardy-Lilaz fut élu maire avant trente ans.
+André-Joseph de Bernardy-Lilaz fut élu maire encore jeune homme.
 
 Je me regardai dans un miroir.
 Une mèche blanche apparut sous ma main lorsque je relevai mes cheveux.
