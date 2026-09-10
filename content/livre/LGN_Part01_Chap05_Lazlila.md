@@ -26,7 +26,7 @@ Je dois reconnaître au coffre, et à l'homme qui le portait, une redoutable eff
 
 Castelnau serait sur le point de récupérer les terres. Je ne sais pas au juste selon quel montage — Catherine n'est pas notaire — mais le résultat, lui, ne prêtait à aucune ambiguïté : ce qui appartenait aux Montmorillon appartiendrait bientôt aux Castelnau-Bernardy, avec l'assentiment enthousiaste de la victime elle-même, ce qui est, en matière de vol, la forme la plus achevée qui se puisse concevoir.
 
-Mais je ne puis abandonner une de Montmorillon. Leur manque de panache est remboursé par une précieuse et constante loyauté. Je vais donc envoyer le maire doucher les espoirs de nos apprentis maniganceurs. Les victoires trop faciles ne sont jamais appréciables.
+Mais je ne puis abandonner une Montmorillon. Leur manque de panache est remboursé par une précieuse et constante loyauté. Je vais donc envoyer le maire doucher les espoirs de nos apprentis maniganceurs. Les victoires trop faciles ne sont jamais appréciables.
 
 
 *

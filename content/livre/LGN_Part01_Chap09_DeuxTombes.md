@@ -76,7 +76,7 @@ Elle me regarda, cette fois, droit dans les yeux — un regard qui ne demandait 
 
 Elle parla encore, plus longtemps, de choses plus ordinaires — comme on redescend toujours, après avoir dit le plus grave, vers ce qui l'est moins, pour se donner le temps de respirer.
 
-Elle n'avait plus goût à rien, me dit-elle. Pas même au vin, elle qui en avait longtemps été si fière. Elle voulait faire arracher la vigne du domaine — toute la vigne, jusqu'au dernier pied — sans bien savoir, elle-même, ce qu'elle planterait à la place, ni si elle planterait quoi que ce fût. Elle me confia être dans une gêne qu'une de Castenau ne devrait pas connaître. André gérait si mal les comptes, un comble pour un notaire.
+Elle n'avait plus goût à rien, me dit-elle. Pas même au vin, elle qui en avait longtemps été si fière. Elle voulait faire arracher la vigne du domaine — toute la vigne, jusqu'au dernier pied — sans bien savoir, elle-même, ce qu'elle planterait à la place, ni si elle planterait quoi que ce fût. Elle me confia être dans une gêne qu'une de Castelnau ne devrait pas connaître. André gérait si mal les comptes, un comble pour un notaire.
 
 — Et pourtant, dit-elle avec un rire sans joie, l'embarcadère est enfin fini. Vous vous rendez compte ? Après tout ce temps, toutes ces réunions, tous ces piquets — il est fini, et mes terres y touchent presque, et je n'en ai plus rien à faire.
 

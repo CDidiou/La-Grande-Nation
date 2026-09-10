@@ -132,7 +132,7 @@ Et, pendant quelques instants, il sembla que les morts eux-mêmes l'entendaient.
 
 Ranga, quelque part sur l'autre rive de l'océan.
 
-Armand, sous la terre de France.
+Armand, sous la terre de Québec.
 
 Les vieux capitaines.
 

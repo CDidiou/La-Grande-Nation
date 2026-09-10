@@ -36,6 +36,7 @@ Je m'en offusquai. Je m'en offusquai avec un plaisir que je ne m'explique pas to
 — Vous êtes Baldassare Marturino, fugitif carbonaro, sans papier, caché chez votre tante Mathurin. Je sais tout de vous.
 — Non, madame. Cet homme n'existe plus. Je suis monsieur Delali-Zalila. Marchand des Indes. Originaire de Pondichéry.
 — Pondichéry, tiens donc!
+
 *
 
 Je le fis parler. Il ne se fit pas prier — un homme entre les mains de qui vous a fait battre n'a plus grand-chose à protéger, hormis sa peau.
@@ -78,4 +79,4 @@ Non par indulgence. Un homme qu'on tient par un secret pareil — un vol, des co
 
 Il reprit le coffre. Il ne me remercia pas de le laisser partir. Il sortit dans la nuit avec la même vigueur qu'à son arrivée, comme si rien, dans cette pièce, n'avait eu lieu qui méritât un mot de plus.
 
-Je gardai les lettres. Que pouvaient-elles m'apprendre, que je ne sus déjà.
+Je gardai les lettres. Que pouvaient-elles m'apprendre, que je ne savais déjà.
