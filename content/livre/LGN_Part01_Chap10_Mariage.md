@@ -32,7 +32,7 @@ Je le crus. Ce fut ma seule erreur de la journée.
 
 La salle de la mairie sentait la cire et le papier humide. Un portrait du Roi, un peu jauni, un peu de travers. Le Maire s'installa derrière sa table, avec ses bésicles et l'air d'un homme qui préférerait être ailleurs.
 
-Pinchon entra le premier, comme toujours, comme s'il avait déjà arpenté la pièce mille fois avant d'y mettre les pieds. Depuis le couteau dans la haie, depuis le poison chez l'herboriste, je ne savais plus le regarder autrement qu'on regarde un homme dont on croit qu'il a tué. Je n'avais aucune preuve. Je n'avais qu'une certitude, et elle me suffisait pour rester assise, et me taire. On ne provoque pas un homme qu'on croit capable d'un couteau. On attend. On choisit ses armes ailleurs.
+Pinchon entra le premier, comme toujours, comme s'il avait déjà arpenté la pièce mille fois avant d'y mettre les pieds. Je ne savais plus le regarder autrement qu'on regarde un homme dont on croit qu'il a tué. Je n'avais aucune preuve. Je n'avais qu'une certitude, et elle me suffisait pour rester assise, et me taire. On ne provoque pas un homme qu'on croit capable d'un couteau. On attend. On choisit ses armes ailleurs.
 
 *
 
