@@ -7,22 +7,43 @@
   border-top: 1px solid var(--border);
 }
 
+.chapter-prev,
+.chapter-next,
+.chapter-middle {
+    font-size: 0.8em; 
+}
+
 .chapter-prev {
   text-align: left;
 }
 
 .chapter-next {
   text-align: right;
-  margin-left: auto;
+  margin-left: auto; /* Pousse le lien suivant tout à droite si le lien du milieu est absent */
+}
+
+.chapter-middle {
+  text-align: center;
+  font-style: italic;
+  flex-grow: 1; /* Permet au lien de prendre sa part d'espace dans la ligne flex */
 }
 
 .post-content p {
     margin-bottom: 1.2em;
+    text-align: justify;
+    user-select: none;
 }
+
+.post-part {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+    color: var(--text-muted);
+}
+
 
 .post-subtitle {
   font-style: italic;
   font-size: 1.5rem;
-  /* Vous pouvez aussi ajuster la couleur ou la taille si besoin, par exemple : */
-  /* color: #666; */
-  /* margin-top: -10px; */
+}

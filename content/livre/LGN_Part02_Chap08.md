@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Les ceps"
+part: Ailleurs
+title: "Les ceps"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

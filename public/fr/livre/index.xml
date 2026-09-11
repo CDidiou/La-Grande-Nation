@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>La Grande Nation on La grande Nation</title>
+    <link>http://localhost:1313/fr/livre/</link>
+    <description>Recent content in La Grande Nation on La grande Nation</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/livre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avant-propos</title>
+      <link>http://localhost:1313/fr/livre/lgn_avantpropos/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_avantpropos/</guid>
+      <description>Registre : glacé, aristocratique, retenue. Fonction : poser le dispositif (deux textes), pas le contexte (canal, comité, pseudonyme) — ceux-ci sont réservés à la scène du coffre.</description>
+    </item>
+    <item>
+      <title>Les frères du Canada</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap01_frerescanada/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap01_frerescanada/</guid>
+      <description>Premier chapitre après l&amp;#39;avant-propos. Fonction : absorber le contexte (canal, comité, valeur des terres) par l&amp;#39;action, sans exposition frontale. Euphrasie encore sincère ici — avant le cynisme, avant le pouvoir sur le Maire. La chute prépare le vol du coffre. Registre glacé, retenue, ironie de re-lecture minimale.</description>
+    </item>
+    <item>
+      <title>La veuve Mathurin</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap02_carbonaro/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap02_carbonaro/</guid>
+      <description>Miroir de « Les épices » (L&amp;#39;Épice, ch.2). Origine réelle de Marturino : Carbonaro exilé, recruté par chantage après une tentative de spoliation. Euphrasie omnisciente par réseau — jardinier, Maire corrompu, préfet de Bordeaux — jamais elle ne justifie ses sources ni ne s&amp;#39;excuse. Registre : froid, assuré, aristocratique. André = notaire, petit noble, non violent.</description>
+    </item>
+    <item>
+      <title>Delali-Zalila</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap03_lalali/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap03_lalali/</guid>
+      <description>Miroir de « Le retour » (L&amp;#39;Épice, ch.3). Euphrasie intercepte le vol du coffre, force les aveux, laisse repartir le voleur avec le butin. Registre : froid, maîtrise totale. Elle savoure l&amp;#39;insolence de Marturino plutôt que d&amp;#39;en être blessée. La découverte des lettres est un accident, pas une confidence préméditée. Elle le laisse partir en laisse, non par sentiment.</description>
+    </item>
+    <item>
+      <title>Le lion anglais</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap04_lionanglais/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap04_lionanglais/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du texte privé d&amp;rsquo;Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Je n&amp;rsquo;avais pas encore lu les lettres.&lt;/p&gt;
+&lt;p&gt;Tout, cette nuit-là, était allé trop vite — le coffre, les coups, l&amp;rsquo;aveu, le double-fond, et cette insolence qu&amp;rsquo;il avait sur moi mise à si rude épreuve — pour que j&amp;rsquo;eusse le loisir, en refermant ma porte derrière lui, de faire autre chose que les ranger. Je les avais, depuis, plusieurs fois reprises entre mes mains sans jamais rompre les cachets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deux hommes et une caisse</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap01/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap01/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le Lion du Fleuve - &lt;em&gt;Chronique véritable des exploits de Balthazar de Saint-Laurent&lt;/em&gt;
+&lt;em&gt;« La France ne saurait être petite tant que les Français ont encore quelque chose à conquérir ! »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Il est des hommes qui naissent avec une fortune.&lt;/p&gt;
+&lt;p&gt;Il en est d&amp;rsquo;autres qui naissent avec un nom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Les épices</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap02/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap02/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le convoi anglais partit à l&amp;rsquo;aube.&lt;/p&gt;
+&lt;p&gt;Les Français l&amp;rsquo;attendaient.&lt;/p&gt;
+&lt;p&gt;Balthazar avait passé trois jours à observer les mouvements du port.&lt;/p&gt;
+&lt;p&gt;Il ne connaissait pas les navires anglais.&lt;/p&gt;
+&lt;p&gt;Il ne connaissait pas leurs officiers.&lt;/p&gt;
+&lt;p&gt;Il ne connaissait même pas exactement ce que contenaient les caisses.&lt;/p&gt;
+&lt;p&gt;Mais il connaissait les hommes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La veuve de Montmorillon</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap05_lazlila/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap05_lazlila/</guid>
+      <description>Miroir du « Saint-Laurent » (L&amp;#39;Épice, ch.4). Récit de seconde main via Catherine — indiscrétions d&amp;#39;oreiller de Castelnau. Registre : amusement froid, mépris de classe, aucune sympathie pour Mme de Montmorillon. La combine fonctionne à la perfection ; le comité canadien devient un vivier de victimes.</description>
+    </item>
+    <item>
+      <title>Le retour</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap03/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap03/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ils rentrèrent en France avec les caisses.&lt;/p&gt;
+&lt;p&gt;Et avec Ranga Rangappa.&lt;/p&gt;
+&lt;p&gt;Armand voulait vendre les épices.&lt;/p&gt;
+&lt;p&gt;Balthazar voulait les planter.&lt;/p&gt;
+&lt;p&gt;Ranga voulait d&amp;rsquo;abord dormir.&lt;/p&gt;
+&lt;p&gt;On s&amp;rsquo;installa en Gascogne.&lt;/p&gt;
+&lt;p&gt;Les terres des Montmorillon étaient pauvres.&lt;/p&gt;
+&lt;p&gt;Les voisins rirent.&lt;/p&gt;
+&lt;p&gt;Puis ils cessèrent de rire.&lt;/p&gt;
+&lt;p&gt;Ranga choisit les sols.&lt;/p&gt;
+&lt;p&gt;Il observa les vents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le Saint-Laurent</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap04/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap04/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ils arrivèrent au Québec après une traversée interminable.&lt;/p&gt;
+&lt;p&gt;Il n&amp;rsquo;y avait pas de chef français pour les attendre.&lt;/p&gt;
+&lt;p&gt;Il n&amp;rsquo;y avait pas d&amp;rsquo;armée cachée.&lt;/p&gt;
+&lt;p&gt;Il n&amp;rsquo;y avait pas de héros local.&lt;/p&gt;
+&lt;p&gt;Il n&amp;rsquo;y avait que des hommes mécontents, des femmes inquiètes, des commerçants prudents, des prêtres hésitants, des soldats britanniques et un fleuve immense.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le Maire</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap06_corruption/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap06_corruption/</guid>
+      <description>Miroir du « Lion » (L&amp;#39;Épice, ch.5). Première fissure dans l&amp;#39;emprise d&amp;#39;Euphrasie sur le Maire : Pinchon le corrompt directement, sans qu&amp;#39;elle l&amp;#39;ait prévu ni autorisé. Ouverture brève sur la déstabilisation des lettres, sans en révéler le contenu. Registre : froid, mais pour la première fois traversé d&amp;#39;un vrai déplaisir, contenu jusqu&amp;#39;au bout.</description>
+    </item>
+    <item>
+      <title>Le Lion</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap05/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap05/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le mouvement grandit.&lt;/p&gt;
+&lt;p&gt;Balthazar traversait les paroisses.&lt;/p&gt;
+&lt;p&gt;Il levait des hommes.&lt;/p&gt;
+&lt;p&gt;Armand organisait les approvisionnements.&lt;/p&gt;
+&lt;p&gt;Les Montmorillon envoyaient de l&amp;rsquo;argent.&lt;/p&gt;
+&lt;p&gt;Les Gascons arrivaient avec leurs armes.&lt;/p&gt;
+&lt;p&gt;Les Canadiens arrivaient avec leurs fusils.&lt;/p&gt;
+&lt;p&gt;Les Français arrivaient avec leurs certitudes.&lt;/p&gt;
+&lt;p&gt;Les Anglais arrivaient avec leurs soldats.&lt;/p&gt;
+&lt;p&gt;Et tout le monde se mit à croire que la victoire était proche.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La bataille du fleuve</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap06/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap06/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;hiver approchait.&lt;/p&gt;
+&lt;p&gt;Le Saint-Laurent se couvrait de brume.&lt;/p&gt;
+&lt;p&gt;Les Britanniques tenaient les rives.&lt;/p&gt;
+&lt;p&gt;Les Français tenaient les villages.&lt;/p&gt;
+&lt;p&gt;Les Canadiens tenaient leur colère.&lt;/p&gt;
+&lt;p&gt;Balthazar réunit ses capitaines.&lt;/p&gt;
+&lt;p&gt;Armand était à côté de lui.&lt;/p&gt;
+&lt;p&gt;Ranga se tenait au fond de la pièce.&lt;/p&gt;
+&lt;p&gt;La carte était déployée.&lt;/p&gt;
+&lt;p&gt;— Ils sont plus nombreux, dit Armand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Les chemins</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap07_leschemins/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap07_leschemins/</guid>
+      <description>Miroir de « La bataille du fleuve » (L&amp;#39;Épice, ch.6) / bascule vers « La victoire » (ch.7). Le Maire attaque directement, sur ordre. Euphrasie comprend que l&amp;#39;argent ne suffit plus — il a peur de quelque chose de plus grand qu&amp;#39;elle. Elle répond par la seule arme qui lui reste : le nom, et Bordeaux. Registre : froid, sec, la colère contenue jusqu&amp;#39;à la dernière ligne, qui, elle, ne l&amp;#39;est plus tout à fait.</description>
+    </item>
+    <item>
+      <title>La victoire</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap07/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap07/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ils gagnèrent encore.&lt;/p&gt;
+&lt;p&gt;Et encore.&lt;/p&gt;
+&lt;p&gt;Le mouvement d&amp;rsquo;indépendance devint une révolution.&lt;/p&gt;
+&lt;p&gt;Les Britanniques abandonnèrent des positions.&lt;/p&gt;
+&lt;p&gt;Les Français prirent des ports.&lt;/p&gt;
+&lt;p&gt;Les Canadiens descendirent le fleuve.&lt;/p&gt;
+&lt;p&gt;Balthazar était partout.&lt;/p&gt;
+&lt;p&gt;Son nom précédait son arrivée.&lt;/p&gt;
+&lt;p&gt;Son ombre précédait son nom.&lt;/p&gt;
+&lt;p&gt;On disait :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le Lion arrive.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Et lorsque le Lion arrivait, les portes s&amp;rsquo;ouvraient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La poudrière</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap08_poudriere/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap08_poudriere/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du texte privé d&amp;rsquo;Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le coffre était de retour dans mon petit salon dès le lendemain matin. Je l&amp;rsquo;avais retrouvé, mais je ne l&amp;rsquo;avais pas retrouvé propre.&lt;/p&gt;
+&lt;p&gt;Mon homme me rapporta l&amp;rsquo;affaire par bribes, comme on rapporte toujours ce genre de chose à une femme, en retranchant ce qu&amp;rsquo;on juge trop rude pour elle et en gardant, sans le vouloir, ce qui l&amp;rsquo;est le plus. Il y avait eu du monde, cette nuit-là, dans le salon des Indes — plus qu&amp;rsquo;il ne l&amp;rsquo;avait cru, un homme de garde qu&amp;rsquo;on n&amp;rsquo;avait pas prévu, un autre encore, réveillé par le bruit. On s&amp;rsquo;était battu. Une chaise avait cédé. Un chandelier était tombé avec elle, et avait mis le feu à une des étoffes rouges, qu&amp;rsquo;on avait dû étouffer sous un tapis pendant que mes hommes filaient déjà avec leur fardeau.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Les ceps</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap08/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap08/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ce fut alors que Balthazar se souvint de la vigne.&lt;/p&gt;
+&lt;p&gt;Les Montmorillon avaient apporté avec eux quelques ceps de Gascogne.&lt;/p&gt;
+&lt;p&gt;Armand les avait conservés pendant toute la campagne.&lt;/p&gt;
+&lt;p&gt;— Pour quoi faire ? demanda Balthazar.&lt;/p&gt;
+&lt;p&gt;— Pour après.&lt;/p&gt;
+&lt;p&gt;— Après quoi ?&lt;/p&gt;
+&lt;p&gt;Armand haussa les épaules.&lt;/p&gt;
+&lt;p&gt;— Après la guerre.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le monde qui s&#39;en va</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap09/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap09/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Les navires pourrissaient dans les ports.&lt;/p&gt;
+&lt;p&gt;Les uniformes se déchiraient dans les greniers.&lt;/p&gt;
+&lt;p&gt;Les cartes elles-mêmes changeaient de noms, d&amp;rsquo;une édition à l&amp;rsquo;autre.&lt;/p&gt;
+&lt;p&gt;Mais le nom de Balthazar demeurait.&lt;/p&gt;
+&lt;p&gt;Les saisons passèrent.&lt;/p&gt;
+&lt;p&gt;Les ceps ne donnaient toujours rien.&lt;/p&gt;
+&lt;p&gt;Balthazar vieillissait.&lt;/p&gt;
+&lt;p&gt;Lentement.&lt;/p&gt;
+&lt;p&gt;Sans s&amp;rsquo;en apercevoir.&lt;/p&gt;
+&lt;p&gt;Il continuait de monter à cheval.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deux tombes</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap09_deuxtombes/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap09_deuxtombes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du texte privé d&amp;rsquo;Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ramon est mort un mardi, dans son lit, sans qu&amp;rsquo;on eût même le temps d&amp;rsquo;aller chercher le médecin de Langon. La Ramonon me dit, plus tard, qu&amp;rsquo;il s&amp;rsquo;était plaint la veille d&amp;rsquo;une lourdeur dans la poitrine, qu&amp;rsquo;il avait attribuée au temps, et qu&amp;rsquo;il était allé se coucher en grommelant, comme toujours, contre quelque chose — le temps, justement, ou les notables, ou la poussière des calèches. Il ne s&amp;rsquo;est pas réveillé.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le vin</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap10/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap10/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le printemps suivant, les ceps avaient survécu.&lt;/p&gt;
+&lt;p&gt;Pas tous.&lt;/p&gt;
+&lt;p&gt;Mais suffisamment.&lt;/p&gt;
+&lt;p&gt;Balthazar les observa.&lt;/p&gt;
+&lt;p&gt;Il ne croyait pas encore au miracle.&lt;/p&gt;
+&lt;p&gt;Il avait trop vécu pour croire facilement aux miracles.&lt;/p&gt;
+&lt;p&gt;Mais les pousses étaient là.&lt;/p&gt;
+&lt;p&gt;Vertes.&lt;/p&gt;
+&lt;p&gt;Fragiles.&lt;/p&gt;
+&lt;p&gt;Obstinées.&lt;/p&gt;
+&lt;p&gt;Il fallut encore plusieurs années.&lt;/p&gt;
+&lt;p&gt;On apprit à protéger les racines.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>L&#39;acte mal plié</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap10_mariage/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap10_mariage/</guid>
+      <description>Le Cep — registre : d&amp;#39;abord triomphant, puis anxieux. Ici : bascule. Trois forces traversent Euphrasie — peur de Pinchon, attirance pour Balthazar, ivresse de son pouvoir sur le Maire — mais elle les tient. Registre glacé, aristocratique, peu d&amp;#39;exposition émotionnelle directe.</description>
+    </item>
+    <item>
+      <title>Le Lion revient</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap11/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap11/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;La nouvelle se répandit.&lt;/p&gt;
+&lt;p&gt;Des gens revinrent.&lt;/p&gt;
+&lt;p&gt;Ceux qui avaient oublié le vieux capitaine vinrent voir le vieux capitaine.&lt;/p&gt;
+&lt;p&gt;Ceux qui avaient oublié les batailles vinrent entendre les histoires.&lt;/p&gt;
+&lt;p&gt;On ressortit les drapeaux.&lt;/p&gt;
+&lt;p&gt;On parla de la guerre.&lt;/p&gt;
+&lt;p&gt;On parla des Anglais.&lt;/p&gt;
+&lt;p&gt;On parla de Barnardy-Lyle.&lt;/p&gt;
+&lt;p&gt;On parla de Van Lilaz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vin Nouveau</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap11_vinnouveau/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap11_vinnouveau/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du texte privé d&amp;rsquo;Euphrasie de Saint-Laurent — « Je vois. Personne ne me voit. »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Les années passèrent sans bruit.&lt;/p&gt;
+&lt;p&gt;C’est une manière de parler. Les années ne passent jamais sans bruit ; c’est nous qui finissons par ne plus l’entendre.
+Mon monde se réduisait. Je m’en aperçus d’abord à des choses que je ne jugeai pas dignes d’être comptées. Une robe que je ne remis plus. Un escalier que je montai moins vite. Des visages disparus des fenêtres. Des connaissances qui avaient disparu sans avoir eu la politesse de mourir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vive la France !</title>
+      <link>http://localhost:1313/fr/livre/lgn_part02_chap12/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part02_chap12/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Extrait du roman publié par Florian de Saint-Euphrasie dans la gazette La Garonne Emancipée — « Le Lion du Fleuve »&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Quelqu&amp;rsquo;un cria :&lt;/p&gt;
+&lt;p&gt;— Vive la France !&lt;/p&gt;
+&lt;p&gt;Un autre répondit :&lt;/p&gt;
+&lt;p&gt;— Vive le vin !&lt;/p&gt;
+&lt;p&gt;Puis un troisième :&lt;/p&gt;
+&lt;p&gt;— Vive le Saint-Laurent !&lt;/p&gt;
+&lt;p&gt;La foule reprit les trois phrases.&lt;/p&gt;
+&lt;p&gt;Elles se mêlèrent.&lt;/p&gt;
+&lt;p&gt;Elles devinrent un chant.&lt;/p&gt;
+&lt;p&gt;Balthazar souriait.&lt;/p&gt;
+&lt;p&gt;Le vieux Lion du Fleuve, qui avait vu mourir ses compagnons, partir ses amis, disparaître ses ennemis et s&amp;rsquo;effacer peu à peu le monde de sa jeunesse, tenait encore debout.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le feu</title>
+      <link>http://localhost:1313/fr/livre/lgn_part01_chap12_lefeu/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/livre/lgn_part01_chap12_lefeu/</guid>
+      <description>&lt;p&gt;Mon frère mourut en mars. Je vous l&amp;rsquo;ai déjà dit.&lt;/p&gt;
+&lt;p&gt;Il ne laissa rien derrière lui qui pût intéresser les hommes de son époque. Le panache était devenu plus encombrant que prestigieux.
+Il ne laissa surtout pas d’héritier.
+Avec lui s’éteignait la dernière branche des Saint-Laurent.
+Il y a des familles qui disparaissent dans la pauvreté. La nôtre avait eu la délicatesse de disparaître dans les formes.&lt;/p&gt;
+&lt;p&gt;André-Joseph de Bernardy-Lilaz entra.
+Je sus avant même qu’il eût franchi la porte pourquoi il était là.
+Il entra avec son habit sombre, son visage assuré, et son fils.
+Le petit garçon avait dix ans.
+André-Joseph avait pris soin de venir accompagné.
+C’était charmant.
+Il venait montrer à son fils comment on hérite.
+Il voulait que le temps fût visible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

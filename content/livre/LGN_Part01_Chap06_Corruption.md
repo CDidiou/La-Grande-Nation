@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Le Maire"
+part: Ici
+title: "Le Maire"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

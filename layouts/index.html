@@ -1,21 +1,44 @@
 {{ define "main" }}
 
-<p>{{ i18n "welcome" }}</p>
 
-<p>
-  <img src="{{ "images/GrandeNation.png" | relURL }}" alt="{{ i18n "coverAlt" }}">
-</p>
+<article class="post-single">
 
-<h2>{{ i18n "contents" }}</h2>
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+	<p class="post-subtitle">-- {{ i18n "cycle" }} --</p>	
+  </header>
 
-<ol>
-  {{ range (where .Site.RegularPages "Section" "livre").ByWeight }}
-    {{ if eq .Section "livre" }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-  {{ end }}
-</ol>
+  <div class="post-content">
+	<p>
+    {{/* Image cliquable liée dynamiquement à la table des matières */}}
+    {{- with site.GetPage "section" "livre" -}}
+      <p style="text-align: center;">
+        <a href="{{ .RelPermalink }}" title="{{ i18n "contents" }}">
+          <img src="{{ "images/GrandeNation.png" | absURL }}" alt="{{ i18n "coverAlt" }}" loading="lazy" style="max-width: 100%; height: auto;">
+        </a>
+	  </p>
+    {{- end -}}		
+    </p>
+	<p>{{ i18n "welcome" }}</p>
+		
+    {{/* Récupération et affichage du contenu de presentation_livre.md */}}
+    {{- with site.GetPage "LGN_PresentationEditoriale" -}}
+      {{ .Content }}
+    {{- else -}}
+      <p>Contenu de présentation non trouvé pour cette langue.</p>
+    {{- end -}}
+  </div>
+
+
+
+  {{/* Lien dynamique vers la table des matières de la section livre dans la bonne langue */}}
+  {{- with site.GetPage "section" "livre" -}}
+  <footer class="post-footer" style="margin-top: 2rem; text-align: center;">
+    <a class="btn" href="{{ .RelPermalink }}" style="font-weight: bold; font-size: 1.1em;">
+      {{ i18n "contents" }} →
+    </a>
+  </footer>
+  {{- end -}}
+</article>
 
 {{ end }}

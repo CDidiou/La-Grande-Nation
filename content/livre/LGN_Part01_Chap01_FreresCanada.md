@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Les frères du Canada"
+part: Ici
+title: "Les frères du Canada"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

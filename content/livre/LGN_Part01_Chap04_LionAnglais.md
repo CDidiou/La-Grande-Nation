@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Le lion anglais"
+part: Ici
+title: "Le lion anglais"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

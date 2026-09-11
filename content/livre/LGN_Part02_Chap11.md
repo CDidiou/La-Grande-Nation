@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Le Lion revient"
+part: Ailleurs
+title: "Le Lion revient"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

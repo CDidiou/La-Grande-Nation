@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Le Saint-Laurent"
+part: Ailleurs
+title: "Le Saint-Laurent"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

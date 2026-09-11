@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Le vin"
+part: Ailleurs
+title: "Le vin"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

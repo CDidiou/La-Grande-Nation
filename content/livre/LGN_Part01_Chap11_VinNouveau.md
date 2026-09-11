@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Vin Nouveau"
+part: Ici
+title: "Vin Nouveau"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

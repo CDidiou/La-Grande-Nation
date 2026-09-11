@@ -1,5 +1,6 @@
 ---
-title: "(Ici) La veuve Mathurin"
+part: Ici
+title: "La veuve Mathurin"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

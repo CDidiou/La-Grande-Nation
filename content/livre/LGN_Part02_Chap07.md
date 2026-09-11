@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) La victoire"
+part: Ailleurs
+title: "La victoire"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

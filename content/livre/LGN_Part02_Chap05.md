@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Le Lion"
+part: Ailleurs
+title: "Le Lion"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

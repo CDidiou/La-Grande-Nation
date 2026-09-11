@@ -1,5 +1,6 @@
 ---
-title: "(Ici) La veuve de Montmorillon"
+part: Ici
+title: "La veuve de Montmorillon"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

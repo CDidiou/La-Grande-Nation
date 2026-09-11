@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) La bataille du fleuve"
+part: Ailleurs
+title: "La bataille du fleuve"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

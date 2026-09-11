@@ -1,5 +1,6 @@
 ---
-title: "(Ailleurs) Vive la France !"
+part: Ailleurs
+title: "Vive la France !"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

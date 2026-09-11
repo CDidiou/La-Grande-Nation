@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Delali-Zalila"
+part: Ici
+title: "Delali-Zalila"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

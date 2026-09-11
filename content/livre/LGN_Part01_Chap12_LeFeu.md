@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Le feu"
+part: Ici
+title: "Le feu"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

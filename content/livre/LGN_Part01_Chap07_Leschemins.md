@@ -1,5 +1,6 @@
 ---
-title: "(Ici) Les chemins"
+part: Ici
+title: "Les chemins"
 subtitle: ""
 date: 2026-09-09
 version: 1.0

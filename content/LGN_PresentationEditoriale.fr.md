@@ -8,7 +8,7 @@ weight: 1
 ---
 ## L'auteur: Jean-Joseph Lainet
 
-![Photo de l'auteur](/La-Charpente/images/Degis.png)
+{{< img "images/Degis.png" "Photo de l'auteur" >}}
 
 
 Ce n’est pas mon vrai nom.
@@ -93,4 +93,8 @@ Celle d'une histoire écrite avec le cœur.
 À mon père, à ma mère, à mon frère.
 
 Je vous aime.
+
 *2J*
+
+## Avis de protection
+Ce contenu est protégé par les lois internationales sur le droit d'auteur. L'ensemble des flux d'accès, des téléchargements et des consultations fait l'objet d'une surveillance et d'un traçage permanents. Toute reproduction, distribution ou diffusion non autorisée donnera lieu à des poursuites immédiates.
