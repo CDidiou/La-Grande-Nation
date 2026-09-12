@@ -54,3 +54,14 @@
 .chapter-part {
   margin-right: 0.5em; /* Espace proportionnel à la taille de la police */
 }
+
+.header-summary-link {
+  margin-bottom: 1.5rem; /* Espace entre le lien du sommaire et la partie/titre */
+  text-align: left;    /* Centre le lien si vous le souhaitez */
+}
+
+.header-summary-link .chapter-middle {
+  font-style: italic !important;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}

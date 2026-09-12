@@ -2,55 +2,142 @@
 
 <article class="post-single">
 
-  <header class="post-header">
-	{{- with .Params.part -}}
-    <p class="post-part">[{{ . }}]</p>
-    {{- end -}}
-    <h1 class="post-title">{{ .Title }}</h1>
-	{{- with .Params.subtitle -}}
-	<p class="post-subtitle">-- {{ . }} --</p>
-	{{- end -}}	
-  </header>
+  <!-- =========================================================
+       PROTECTION PAR MOT DE PASSE
+       ========================================================= -->
 
-  <div class="post-content">
-    {{ .Content }}
+  <div id="password-wall">
+
+<h2>Contenu protégé</h2>
+
+<form id="password-form">
+
+  <label for="password">
+    Mot de passe :
+  </label>
+
+  <input
+    type="password"
+    id="password"
+    autocomplete="current-password"
+    required
+  >
+
+  <button type="submit">
+    Accéder
+  </button>
+
+</form>
+
+<p id="password-error" hidden>
+  Mot de passe incorrect.
+</p>
+
   </div>
 
-  {{ $chapters := .CurrentSection.Pages.ByWeight }}
-  {{ $currentIndex := 0 }}
+  <!-- =========================================================
+       CONTENU DU CHAPITRE
+       ========================================================= -->
 
-  {{ range $index, $chapter := $chapters }}
-    {{ if eq $chapter.RelPermalink $.RelPermalink }}
-      {{ $currentIndex = $index }}
-    {{ end }}
+  <div id="protected-content" hidden>
+
+<header class="post-header">
+
+  {{/* Lien vers le sommaire en haut de l'en-tête */}}
+  {{- with site.GetPage "section" "livre" -}}
+  <div class="header-summary-link">
+    <a class="chapter-middle"
+       href="{{ .RelPermalink }}"
+       title="Sommaire">
+      <span>{{ i18n "contents" }}</span>
+    </a>
+  </div>
+  {{- end -}}
+
+  {{- with .Params.part -}}
+  <p class="post-part">[{{ . }}]</p>
+  {{- end -}}
+
+  <h1 class="post-title">{{ .Title }}</h1>
+
+  {{- with .Params.subtitle -}}
+  <p class="post-subtitle">-- {{ . }} --</p>
+  {{- end -}}
+
+</header>
+
+
+<div class="post-content">
+  {{ .Content }}
+</div>
+
+
+{{ $chapters := .CurrentSection.Pages.ByWeight }}
+{{ $currentIndex := 0 }}
+
+{{ range $index, $chapter := $chapters }}
+  {{ if eq $chapter.RelPermalink $.RelPermalink }}
+    {{ $currentIndex = $index }}
+  {{ end }}
+{{ end }}
+
+
+<nav class="chapter-navigation">
+
+  {{ if gt $currentIndex 0 }}
+    {{ $previous := index $chapters (sub $currentIndex 1) }}
+
+    <a class="chapter-prev"
+       href="{{ $previous.RelPermalink }}">
+      ← {{ $previous.Title }}
+    </a>
   {{ end }}
 
-	<nav class="chapter-navigation">
 
-	  {{ if gt $currentIndex 0 }}
-		{{ $previous := index $chapters (sub $currentIndex 1) }}
-		<a class="chapter-prev" href="{{ $previous.RelPermalink }}">
-		  ← {{ $previous.Title }}
-		</a>
-	  {{ end }}
+  {{- with site.GetPage "section" "livre" -}}
+  <a class="chapter-middle"
+     href="{{ .RelPermalink }}"
+     title="Sommaire">
+    {{ i18n "contents" }}
+  </a>
+  {{- end -}}
 
-	  {{- with site.GetPage "section" "livre" -}}
-		<a class="chapter-middle" href="{{ .RelPermalink }}" title="Sommaire">
-		  {{ i18n "contents" }}
-		</a>
-	  {{ end }}
 
-	  {{ if lt $currentIndex (sub (len $chapters) 1) }}
-		{{ $next := index $chapters (add $currentIndex 1) }}
-		<a class="chapter-next" href="{{ $next.RelPermalink }}">
-		  {{ $next.Title }} →
-		</a>
-	  {{ end }}
+  {{ if lt $currentIndex (sub (len $chapters) 1) }}
+    {{ $next := index $chapters (add $currentIndex 1) }}
 
-	</nav>
-  <div class="chapter-comments">
-    {{ partial "giscus.html" . }}
+    <a class="chapter-next"
+       href="{{ $next.RelPermalink }}">
+      {{ $next.Title }} →
+    </a>
+  {{ end }}
+
+</nav>
+
+
+<div class="chapter-comments">
+  {{ partial "giscus.html" . }}
+</div>
+
   </div>
+
+  <!-- =========================================================
+       HASH DU MOT DE PASSE
+       ========================================================= -->
+
+  <script>
+    window.LIVRE_PASSWORD_HASH =
+      "{{ .Site.Params.livrePasswordHash }}";
+  </script>
+
+  <!-- =========================================================
+       JAVASCRIPT DE PROTECTION
+       ========================================================= -->
+
+{{ $livreProtection := resources.Get "js/livre-protection.js" }}
+{{ $livreProtection = $livreProtection | minify | fingerprint }}
+
+  <script src="{{ $livreProtection.RelPermalink }}"></script>
 
 </article>
 

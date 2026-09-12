@@ -25,5 +25,8 @@ defaultContentLanguageInSubdir = true
     title = 'La Gran Nación'
     weight = 3
 
+[params]
+livrePasswordHash = "71f56cf8a917a965068d5fe236e4197b830217870988ba70fbdc2a0a9b7126f7"
+
 [params.assets]
 customCSS = ["css/extended/custom.css"]
