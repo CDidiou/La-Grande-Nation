@@ -10,7 +10,7 @@
 .chapter-prev,
 .chapter-next,
 .chapter-middle {
-    font-size: 0.8em; 
+    font-size: 0.9em; 
 }
 
 .chapter-prev {
@@ -46,4 +46,11 @@
 .post-subtitle {
   font-style: italic;
   font-size: 1.5rem;
+  /* Vous pouvez aussi ajuster la couleur ou la taille si besoin, par exemple : */
+  /* color: #666; */
+  /* margin-top: -10px; */
+}
+
+.chapter-part {
+  margin-right: 0.5em; /* Espace proportionnel à la taille de la police */
 }

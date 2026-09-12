@@ -15,8 +15,8 @@
       {{ range .Pages.ByWeight }}
         <li>
 			<a href="{{ .RelPermalink }}">
-				{{- with .Params.part -}}[{{ . }}] {{- end -}}
-				&nbsp;{{ .Title }}
+				{{- with .Params.part -}}<span class="chapter-part">[{{ . }}]</span> {{- end -}}
+				{{ .Title }}
 			</a>
         </li>
       {{ end }}
